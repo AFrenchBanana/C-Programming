@@ -31,6 +31,17 @@ int main (void){
 }
 ```
 * These structures are being made on the stack
+#### Alternate Way to initialise a struct
+* These have to be in the same order as they were initialised 
+```c
+struct person my_person = {1, "F113", 2000.0f};
+```
+
+* These do not have to be in the same order 
+```c
+struct person my_person3 = {.lastname="F114", .id=3, .salary=250.0f};
+```
+
 ### Array of Structures 
 * Old school way
 * This is not a C solution, instead a pre-processor solution
@@ -53,3 +64,20 @@ my_person.id = 100;
 strcpy(my_person.lastname, "F112"); //UNSAFE
 my_person.salary = 20000.0f; //f makes sure it goes to a float not a double.
 ```
+### Struct Sizes
+```c
+struct person
+{
+byte id; // 1 byte
+char lastname[20]; //20 bytes
+float salary; //4 bytes
+// total 25 bytes
+};
+```
+
+```c
+sizeof(myperson) // this will be 28 bytes
+```
+* Padding is added to the struct to allow everything to be aligned up on the boundary edge of the stack. 
+* This may help performance. This can help prevent against CPU cycles. 
+![[Pasted image 20231121113235.png]]

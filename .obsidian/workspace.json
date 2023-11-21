@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81174bfa931cffb8",
+            "id": "4ff68154890dd00c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structures.md",
+                "file": "Markdown Notes/Pointers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structures.md",
+                "file": "Markdown Notes/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structures.md",
+                "file": "Markdown Notes/Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structures.md"
+                "file": "Markdown Notes/Pointers.md"
               }
             }
           }
@@ -146,15 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81174bfa931cffb8",
+  "active": "4ff68154890dd00c",
   "lastOpenFiles": [
-    "a.out",
-    "struct.c",
-    "structure.c",
-    "The Basics.md",
+    "Example Projects/a.out",
+    "Markdown Notes/Functions.md",
+    "Markdown Notes/Pointers.md",
+    "Untitled.md",
+    "Example Projects/function.c",
+    "Example Projects/function..c",
+    "Example Projects/pointers2.c",
+    "Example Projects/pointers",
+    "Example Projects/structures.c",
+    "Markdown Notes/Enumerations.md",
+    "Markdown Notes/Structures.md",
+    "Markdown Notes/The Basics.md",
+    "Markdown Notes/Data Types.md",
     "Structures.md",
+    "Example Projects/struct.c",
+    "Example Projects/array_length.c",
+    "Example Projects/pointers.c",
+    "Example Projects/multi_dimensional_arrrys.c",
+    "Images/Pasted image 20231121113235.png",
+    "The Basics.md",
     "Data Types.md",
-    "array_length.c",
     "Pointers.md"
   ]
 }
