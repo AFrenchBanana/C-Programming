@@ -12,14 +12,12 @@ int main(void){
     int b = 20; 
     // need the send in the memory address with the & symbol
     swapit(&a,&b);
-    printf("a is %d", a);
-    printf(", b is %d\n", b);
-
+    printf("a is %d, b is %d\n", a, b);
     return 0;
 }
 
 //function definition, need to de_reference each object with the *
-void swapit(int * a_ptr,int *b_ptr) {
+void swapit(int *a_ptr,int *b_ptr) {
     int temp = *a_ptr;
     *a_ptr = *b_ptr;
     *b_ptr = temp;  

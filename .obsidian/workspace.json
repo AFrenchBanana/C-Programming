@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Notes/Pointers.md",
+                "file": "Markdown Notes/Muddling with Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Notes/Pointers.md",
+                "file": "Markdown Notes/Muddling with Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Notes/Pointers.md",
+                "file": "Markdown Notes/Muddling with Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Notes/Pointers.md"
+                "file": "Markdown Notes/Muddling with Data.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "4ff68154890dd00c",
   "lastOpenFiles": [
+    "Markdown Notes/Structures.md",
+    "Markdown Notes/Pointers.md",
     "Example Projects/a.out",
     "Markdown Notes/Functions.md",
-    "Markdown Notes/Pointers.md",
-    "Untitled.md",
+    "Markdown Notes/Muddling with Data.md",
     "Example Projects/function.c",
     "Example Projects/function..c",
     "Example Projects/pointers2.c",
     "Example Projects/pointers",
     "Example Projects/structures.c",
     "Markdown Notes/Enumerations.md",
-    "Markdown Notes/Structures.md",
     "Markdown Notes/The Basics.md",
     "Markdown Notes/Data Types.md",
     "Structures.md",

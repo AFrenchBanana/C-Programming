@@ -41,7 +41,20 @@ struct person my_person = {1, "F113", 2000.0f};
 ```c
 struct person my_person3 = {.lastname="F114", .id=3, .salary=250.0f};
 ```
+* Set a type def for the structure to make it easier to initialise. 
+```c
+type def struct
+{
+//members
+byte id; //unsigned char is 8 bits, 1 bytes, allows 0-255
+char lastname[20];
+float salary;
+} person;
 
+//further down
+person my_person;
+
+```
 ### Array of Structures 
 * Old school way
 * This is not a C solution, instead a pre-processor solution

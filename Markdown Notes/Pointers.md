@@ -29,3 +29,11 @@ printf("item is %p\n", data_ptr); // print memory location of pointer location
 data_ptr++; //move memory location +1
 printf("item is %p\n", data_ptr);  // print memory location of second pointer loc
 ```
+
+* Reference Struct with pointer
+```c
+struct StructureName *ptr = &StructureItem;
+// both of these work
+printf("%d\n", *ptr->structureItem)
+printf("%d\n", (ptr).structureItem)
+```
