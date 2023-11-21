@@ -18,3 +18,5 @@ int main(void){
     printf("Data is %d", twoDdata[1][0]);
     printf(" and the address is %p\n", &twoDdata[1][0]);
 
+    return 0;
+}

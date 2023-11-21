@@ -56,3 +56,10 @@ char hostname[] ="host";
 
 char hostname[] = {'h','o','s','t','\0'}
 ```
+* Copy a new string to a new array
+```c
+char name[6] = 'Frank'
+char name2[5] = ''
+#include <string.h>
+strncopy(name, "jess")
+```
