@@ -24,3 +24,36 @@ portNum = 1235;
 // But you can copy this to a non-const variable
 short modifiablePort = portNum;
 ```
+
+## Boolean
+```
+int main(void)
+{
+	int num = 10;
+	int result = (num >= 10);
+	print("Result is %d", result);
+
+	 return 0;	
+}
+```
+* In C 0 = False, anything else is True.
+
+* Can include `<stdboolh>`
+```c
+#include <stdio.h>
+#include <stdbool.h>
+
+int main (void){
+	bool a = true;
+	bool b = false;
+	
+	if (a == b){
+		printf("True\n");
+	} else {
+		printf("False\n");
+	}
+	printf("True = %d\n", a);
+	printf("False = %d\n", b);
+	return 0;
+}
+```
