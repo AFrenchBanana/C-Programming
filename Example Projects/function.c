@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-//prototype
+/**
+ * Converts Celsius to Fahrenheit.
+ *
+ * @param c The temperature in Celsius.
+ * @return The temperature in Fahrenheit.
+ */
 float c_to_f(float);
 
 int main (void){
@@ -12,7 +17,12 @@ int main (void){
     return 0;  
 }
 
-// defintion
+/**
+ * Converts Celsius to Fahrenheit.
+ *
+ * @param c The temperature in Celsius.
+ * @return The temperature in Fahrenheit.
+ */
 float c_to_f(float c){
     return c * 9.0f/5.0f + 32;
 }

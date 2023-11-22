@@ -1,3 +1,8 @@
+/**
+ * @file boolean.c
+ * @brief This program demonstrates the usage of boolean variables in C.
+ */
+
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -7,12 +12,12 @@ int main (void){
     bool b = false; 
 
     if (a == b){
-        printf("True\n");
+        printf("True\n"); 
     } else {
         printf("False\n");
     }
     printf("True = %d\n", a);
     printf("False = %d\n", b);
-
+    
     return 0;  
 }
