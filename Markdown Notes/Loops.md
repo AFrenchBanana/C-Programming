@@ -23,3 +23,28 @@ while (// condition)
 	//at start of the loop body, if "condition" is true, enter body 
 }
 ```
+
+## Loop Control 
+```c
+#include <ctype.h> 
+char* pSomeString = "someString"
+
+for (int i = 0 ; itr < 100; i++){
+	if (pSomeString[i]){ //check if the value is valid, and not an null byte.
+		if (isdigit(pSomeString[i])) { 
+			printf("%d\n", pSomeString[itr]);
+
+			continue; 
+		}
+	else 
+	{
+		break;
+	}
+	
+	}
+}
+```
+
+## goto 
+* Direct code jump 
+* **Do Not Use** 99% of the time. 
