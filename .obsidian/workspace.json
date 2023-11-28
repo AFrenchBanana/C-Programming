@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Notes/Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd980973e7ea6717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Notes/Functions.md",
+                "file": "Markdown Notes/Pointers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scanf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Notes/Functions.md",
+                "file": "Markdown Notes/Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Notes/Functions.md",
+                "file": "Markdown Notes/Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Notes/Functions.md"
+                "file": "Markdown Notes/Pointers.md"
               }
             }
           }
@@ -159,25 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd980973e7ea6717",
+  "active": "f01a4749707d9622",
   "lastOpenFiles": [
+    "Example Projects/a.out",
+    "Example Projects/const.c",
+    "Untitled.md",
+    "Markdown Notes/Pointers.md",
     "Markdown Notes/Memory.md",
     "Markdown Notes/Functions.md",
-    "Untitled.md",
+    "Example Projects/function_pointers2.c",
+    "Example Projects/function_pointers.c",
+    "Markdown Notes/The Basics.md",
+    "Markdown Notes/Loops.md",
+    "Example Projects/function2.c",
+    "Example Projects/rot13.c",
+    "Example Projects/reference_paramater.c",
+    "Example Projects/reference_paramater",
     "Example Projects/copilot.c",
-    "Example Projects/a.out",
     "Example Projects/mem_dump.c",
     "Example Projects/heap_memcopy.c",
-    "Example Projects/pointers3.c",
-    "Example Projects/point3.c",
-    "Example Projects/malloc.c",
-    "Markdown Notes/Pointers.md",
-    "Markdown Notes/Loops.md",
-    "Example Projects/bubblesort.c",
-    "Example Projects/linear_search.c",
-    "Markdown Notes/The Basics.md",
     "Markdown Notes/Logical Conditions.md",
-    "Example Projects/loops.c",
     "Markdown Notes/Bit-wise Operator.md",
     "Markdown Notes/Maths.md",
     "Markdown Notes/Macros.md",

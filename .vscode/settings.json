@@ -1,6 +1,7 @@
 {
     "cmake.configureOnOpen": false,
     "files.associations": {
-        "string.h": "c"
+        "string.h": "c",
+        "reference_paramater": "c"
     }
 }
