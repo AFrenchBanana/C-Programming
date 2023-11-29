@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f729429f73663997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Notes/Loops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scanf",
+                "query": "for loop if",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Notes/Pointers.md",
+                "file": "Markdown Notes/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Notes/Pointers.md",
+                "file": "Markdown Notes/Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Notes/Pointers.md"
+                "file": "Markdown Notes/Loops.md"
               }
             }
           }
@@ -146,29 +160,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f01a4749707d9622",
+  "active": "f729429f73663997",
   "lastOpenFiles": [
     "Example Projects/a.out",
+    "Markdown Notes/Macros.md",
+    "Markdown Notes/Pointers.md",
+    "Markdown Notes/Functions.md",
+    "Markdown Notes/Loops.md",
+    "Example Projects/country_fare.c",
+    "Markdown Notes/Memory.md",
+    "Markdown Notes/Arguments.md",
+    "Files.md",
+    "Example Projects/file.txt",
+    "Example Projects/files.c",
     "Example Projects/const.c",
     "Untitled.md",
-    "Markdown Notes/Pointers.md",
-    "Markdown Notes/Memory.md",
-    "Markdown Notes/Functions.md",
     "Example Projects/function_pointers2.c",
     "Example Projects/function_pointers.c",
     "Markdown Notes/The Basics.md",
-    "Markdown Notes/Loops.md",
     "Example Projects/function2.c",
     "Example Projects/rot13.c",
     "Example Projects/reference_paramater.c",
-    "Example Projects/reference_paramater",
-    "Example Projects/copilot.c",
-    "Example Projects/mem_dump.c",
-    "Example Projects/heap_memcopy.c",
     "Markdown Notes/Logical Conditions.md",
     "Markdown Notes/Bit-wise Operator.md",
     "Markdown Notes/Maths.md",
-    "Markdown Notes/Macros.md",
     "Markdown Notes/Meddling with Data.md",
     "Markdown Notes/Floating Point and Imaginary numbers.md",
     "Markdown Notes/Strings.md",

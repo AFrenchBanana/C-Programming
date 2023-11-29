@@ -36,7 +36,6 @@ void func2(int const * numptr) {
     //(*numptr)++; //De-referencing the pointer and changing the value, this will not work because of the cons
     printf("Pointer pointing to: %p\n", numptr);
     printf("Value of pointer: %d\n", *numptr);
-
 }
 
 //func3 is protecting the memory address of the pointer, as such as int can be changed but not the pointer
